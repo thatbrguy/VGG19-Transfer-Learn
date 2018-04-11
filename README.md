@@ -1,7 +1,7 @@
 # VGG19-Transfer-Learn
 TensorFlow implementation of VGG19 with Transfer Learning. The model is based on this implementation. 
 
-This repository is used as a teaching aid, for demonstraing the effectiveness of data augmentation, in this [medium blog]().
+This repository is used as a teaching aid, for demonstraing the effectiveness of data augmentation, in this [medium blog](https://medium.com/nanonets/how-to-use-deep-learning-when-you-have-limited-data-part-2-data-augmentation-c26971dc8ced).
 
 ## Requirements:
 - Python 3.5
